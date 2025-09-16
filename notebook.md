@@ -112,13 +112,13 @@
 
 |onPressed| The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` |  |  |
 
-|StatelessWidget| A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` |  |  |
+|StatelessWidget| A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` ||text and images not moving. stable|
 
-|Navigator| A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
+|Navigator| A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |looking through a website|  |
 
 |@override| Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
 
-|| Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
+|build()| Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
 
 |      | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
 
