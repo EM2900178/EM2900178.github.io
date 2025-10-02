@@ -1,8 +1,10 @@
 ## my coding notebook
 
 ## Table of Contents
-
-
+ -[Flutter Notes](#Flutter-notes)
+ [What is Flutter?](#What-is-flutter?)
+[Key Terms and Definitions](#key-terms-and-definitions)
+[Layout and Design Widgets](key-terms-and-definitions)
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/)  
 ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
